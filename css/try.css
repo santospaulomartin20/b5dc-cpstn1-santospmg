@@ -300,6 +300,15 @@ img[alt=f1] {
 	letter-spacing: 15px;
 	text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
 }
+.jumbotron > h2 {
+	color: white;
+	font-family: saturday-nights, bold;
+	width: auto;
+	padding-top: 230px;
+	font-size: 100px;
+	letter-spacing: 15px;
+	text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
 .row {
 	padding-right: 0;
 	padding-left: 0;
@@ -311,7 +320,8 @@ img[alt=f1] {
 	border : transparent;
 	box-shadow: none !important;
 }
-strong > a:-webkit-any-link {
+strong > a:-webkit-any-link, 
+h2 > strong > a:-webkit-any-link{
 	text-decoration: none;
 	color: white;
 }
@@ -350,9 +360,6 @@ img[alt=avaht2] {
 	overflow: auto;
 	margin-top: 40px;
 }
-/*li.active{
-	background-color: red !important;
-}*/
 .btn.btn-primary {
 	border-radius: 0 !important; 
 }
@@ -412,6 +419,9 @@ img[alt=avaht2] {
 @media screen and (min-width: 768px) {
 	.jumbotron > h1 {
 		padding-top: 150px;
+	}
+	h1#html3h1.text-center {
+		padding-top: 10px !important;
 	}
 	img[alt=f1] {
 	width: 100%;
