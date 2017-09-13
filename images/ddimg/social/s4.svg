@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="793.7" height="793.7" version="1.1" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0,-87)" fill="#f98b02">
+  <path transform="matrix(.26458 0 0 .26458 0 87)" d="m25 18.701v223.95l223.95-223.95h-223.95zm750 526.05l-223.95 223.95h223.95v-223.95z" style="paint-order:fill markers stroke"/>
+  <g transform="matrix(4.8176 0 0 4.8176 369.65 -1132)">
+   <path d="m-68.203 261.22v5.2476c11.979 4.2e-4 21.636 9.6572 21.636 21.636h5.2476c-4.18e-4 -14.816-12.068-26.884-26.884-26.884z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <path d="m-68.203 270.7v4.965c6.8977 4.2e-4 12.437 5.5396 12.437 12.437h4.965c-4.18e-4 -9.5805-7.8219-17.402-17.402-17.402z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+   <circle cx="-64.648" cy="284.55" r="3.555"/>
+  </g>
+ </g>
+</svg>
